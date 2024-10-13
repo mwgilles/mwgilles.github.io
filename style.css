@@ -1,0 +1,25 @@
+
+    body {
+            font-family: sans-serif;
+        }
+
+        .navbar {
+            background-color: orange;
+        }
+
+        .navbar ul {
+            display: flex;
+        }
+
+        .navbar li {
+            margin: 20px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            display: inline;
+        }
+
+     
+
